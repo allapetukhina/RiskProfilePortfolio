@@ -1,0 +1,16 @@
+Name of QuantLet : RiskProfilePortfolio
+
+Published in : 'Risk profile clustering strategy in portfolio diversification'
+
+Description : 'Reproduces all calculations used in the project and plots: 1. k-mean and agglomerative clustering of stocks based on risk-profiles, constructs portfolios from stocks from separate clusters'
+
+Keywords : cluster, portfolio, risk measure, distance meaure, k-means, agglomerative clustering, returns
+
+See also :
+
+Author : Alla Petukhina
+
+Submitted : June 11 2018 by Alla Petukhina
+Datafile : 'stoxx600NAfulldata.mat', 'stoxx600EUfulldata.mat'
+
+Example : 
